@@ -1,10 +1,8 @@
-📦 Your Spam Filter Likely Uses These Packages:
 pandas
 scikit-learn
 
-📄 requirements.txt (copy this):
-pandas
-scikit-learn
+
+
 
 
 
