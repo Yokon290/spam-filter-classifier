@@ -26,6 +26,7 @@ This project is a simple and effective **spam message classifier** built using *
 
 ## 📊 Sample Output
 
+...
 Accuracy: 0.987
 📊 Classification Report:
 precision recall f1-score support
@@ -36,6 +37,7 @@ precision recall f1-score support
 accuracy                           0.99      1115
 macro avg 0.98 0.96 0.97 1115
 weighted avg 0.99 0.99 0.99 1115
+...
 
 ## ✅ How to Run
 python spam_filter.py
