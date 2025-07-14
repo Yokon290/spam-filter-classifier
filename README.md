@@ -41,8 +41,9 @@ weighted avg    0.99      0.99      0.99      1115
 
 
 ## ✅ How to Run
+
+```bash
 python spam_filter.py
-Make sure you have the required libraries installed.
 
 📌 Future Improvements
 Deploy the model using Flask or FastAPI (coming soon!)
